@@ -1,25 +1,55 @@
 class Solution {
     public int myAtoi(String s) {
-        long ans = 0;
-        boolean  neg = false;
-        int i = 0;
-        for(; i < s.length(); i++) {
-            if(s.charAt(i) != ' '){
-                char ch = s.charAt(i);
-                if(ch == '+' || ch == '-') i++;
-                if(ch == '-') neg = true;
-                break;
-            }
-        }
-        for(; i < s.length(); i++){
+        long number = 0;
+        boolean isNegative = false;
+        boolean isZnak = false;
+        boolean isNumber = false;
+        int n = s.length();
+        for (int i = 0; i < n;i++){
             char c = s.charAt(i);
-            if(c > '9' || c < '0') break;
-            ans = ans * 10 + (c - '0');
-            if(ans > 2147483647){
-                return neg ? -2147483648:2147483647;
+            if (c == '-')
+            {
+                if (isNumber)
+                break;
+                isNegative = true;
+                isNumber = true;
+                continue;
+            }
+            if ( c == '+'){
+                if (isNumber)
+                break;
+                isNumber = true;
+                continue;
+            }
+            if (c == ' ')
+           { if(isNumber)
+            break;
+            continue;}
+            if (c > '9' || c <'0')
+            break;
+            isNumber = true;
+
+
+            number = number * 10 + (c - '0');
+            System.out.println(number);
+             if ( number > 2147483647 )
+            { 
+            if(isNegative){
+                number = -2147483648;
+                isNegative = false;
+            }
+            else
+            number = 2147483647;
+            break;
             }
         }
-        if(neg) return (int) ans * -1;
-        return (int)ans;
+
+
+        if(isNegative)
+        {
+        number *= -1;
+        }
+
+        return (int)number;
     }
 }
