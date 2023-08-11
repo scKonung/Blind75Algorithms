@@ -49,7 +49,7 @@
 
 ### Linked List
 
--   [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) - [Solution](Linked%20List/21.%20Merge%20Two%20Sorted%20Lists)
+-   [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) - [Solution](/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists)
 -   [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
 -   [ ] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list)
 -   [ ] [Middle of the Linked List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
@@ -159,7 +159,7 @@
 
 -   [ ] [Permutations](https://leetcode.com/problems/permutations)
 -   [ ] [Subsets](https://leetcode.com/problems/subsets)
--   [ ] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)
+-   [x] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) - [Solution](/Recursion/17.%20Letter%20Combinations%20of%20a%20Phone%20Number)
 
 ---
 
