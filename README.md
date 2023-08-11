@@ -1,6 +1,5 @@
 # Grind 75
 > This repository is a software engineer interview prepration, which provides solutions for 75 leetcode questions in Java. The original post can be found on [here](https://www.techinterviewhandbook.org/grind75?grouping=topics&order=difficulty&hours=8). Questions can be categorized into 15 cagtegories, including Array, Stack, Linked List, String, Binary Tree, Binary Search, Graph, Dynamic Programming, Binary Search Tree, Hash Table, Binary, Heap, Trie, Recursion, and Matrix.
->
 
 ##### Problem solved ?/75
 
@@ -22,17 +21,17 @@
 
 ### Array
 
--   [ ] [Two Sum](https://leetcode.com/problems/two-sum)
+-   [x] [Two Sum](https://leetcode.com/problems/two-sum) - [Solution](/Array/1.%Two%Sum/)
 -   [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
 -   [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
 -   [ ] [Majority Element](https://leetcode.com/problems/majority-element)
 -   [ ] [Insert Interval](https://leetcode.com/problems/insert-interval)
--   [ ] [3Sum](https://leetcode.com/problems/3sum/)
+-   [x] [3Sum](https://leetcode.com/problems/3sum/) - [Solution](/Array/15.%3Sum/)
 -   [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)
 -   [ ] [Combination Sum](https://leetcode.com/problems/combination-sum)
 -   [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals)
 -   [ ] [Sort Colors](https://leetcode.com/problems/sort-colors)
--   [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water)
+-   [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water) - [Solution](/Array/11.%Container%With%Most%Water/)
 
 ---
 
