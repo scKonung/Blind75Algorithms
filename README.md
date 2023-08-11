@@ -144,7 +144,7 @@
 -   [ ] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin)
 -   [ ] [Task Scheduler](https://leetcode.com/problems/task-scheduler)
 -   [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
--   [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+-   [x] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) - [Solution](Heap/23.%20Merge%20k%20Sorted%20Lists)
 
 ---
 
