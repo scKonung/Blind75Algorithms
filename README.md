@@ -26,12 +26,12 @@
 -   [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
 -   [ ] [Majority Element](https://leetcode.com/problems/majority-element)
 -   [ ] [Insert Interval](https://leetcode.com/problems/insert-interval)
--   [x] [3Sum](https://leetcode.com/problems/3sum/) - [Solution](/Array/15.%3Sum/)
+-   [x] [3Sum](https://leetcode.com/problems/3sum/) - [Solution](/Array/15.%203Sum/)
 -   [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)
 -   [ ] [Combination Sum](https://leetcode.com/problems/combination-sum)
 -   [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals)
 -   [ ] [Sort Colors](https://leetcode.com/problems/sort-colors)
--   [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water) - [Solution](/Array/11.%Container%With%Most%Water/)
+-   [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water) - [Solution](/Array/11.%20Container%20With%20Most%20Water/)
 
 ---
 
