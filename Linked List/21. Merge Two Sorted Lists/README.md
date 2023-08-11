@@ -32,6 +32,6 @@ class Solution {
     }
 }
 ```
-Space Complexity: ![O(1)](<https://latex.codecogs.com/svg.image?\inline&space;O(1)>)
+Time Complexity: ![O(n*m)](<https://latex.codecogs.com/svg.image?\inline&space;O(n*m)>), Space Complexity: ![O(1)](<https://latex.codecogs.com/svg.image?\inline&space;O(1)>)
 
 Explanation: Simple recursion, where we compare values of `ListNode` and then add smaller value to current `result` and for the next `ListNode` in the constructor we search next value with recursion.
