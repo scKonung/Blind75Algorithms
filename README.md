@@ -49,7 +49,7 @@
 
 ### Linked List
 
--   [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
+-   [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) - [Solution](Linked%20List/21.%20Merge%20Two%20Sorted%20Lists)
 -   [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
 -   [ ] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list)
 -   [ ] [Middle of the Linked List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
