@@ -2,7 +2,7 @@
 
 Link to the problem [here](https://leetcode.com/problems/two-sum/).
 
-### [Basic Solution](/Array/1.%20Two%20Sum/BasicSolution.java): Brute Force
+### [Basic Solution](/Array/1.%20Two%20Sum/BasicSolution.java) : Brute Force
 
 ```java
 class Solution {
