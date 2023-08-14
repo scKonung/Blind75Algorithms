@@ -54,4 +54,4 @@ class Solution {
 
 Time Complexity: ![O(n)](<https://latex.codecogs.com/svg.image?\inline&space;O(n)>), Space Complexity: ![O(n)](<https://latex.codecogs.com/svg.image?\inline&space;O(n)>)
 
-Explanation: So the algorythm iterate all symbols from start. First think fisrt add to the list `branches` the open branches. When algorythm come to the close branche, we  check if this is a last branche type in list and current close branche type is the same. If yes , we delete last branche, if not, we just return `false`, if we check all characters of string we return `true`;
+Explanation: So the algorythm iterate all symbols from start. First think fisrt add to the list `branches` the open branches. When algorythm come to the close branche, we  check if this is a last branche type in list and current close branche type is the same. If yes , we delete last branche, if not, we just return `false`, if we check all characters of string we return `true`.
