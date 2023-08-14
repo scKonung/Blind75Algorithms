@@ -59,7 +59,7 @@
 
 ### String
 
--   [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
+-   [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) - [Solution](/String/125.%20Valid%20Palindrome)
 -   [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram)
 -   [ ] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome)
 -   [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
