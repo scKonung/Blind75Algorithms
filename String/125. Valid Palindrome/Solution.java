@@ -4,7 +4,6 @@ class Solution {
         int left = 0;
         int right = s.length() - 1;
         while (left < right){
-            System.out.println(left +" " + right);
             char leftLetter = s.charAt(left);
             char rightLetter = s.charAt(right);
             if (!Character.isLetterOrDigit(leftLetter)){
