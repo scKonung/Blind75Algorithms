@@ -1,7 +1,7 @@
 # Grind 75
 > This repository is a software engineer interview prepration, which provides solutions for 75 leetcode questions in Java. The original post can be found on [here](https://www.techinterviewhandbook.org/grind75?grouping=topics&order=difficulty&hours=8). Questions can be categorized into 15 cagtegories, including Array, Stack, Linked List, String, Binary Tree, Binary Search, Graph, Dynamic Programming, Binary Search Tree, Hash Table, Binary, Heap, Trie, Recursion, and Matrix.
 
-##### Problem solved 12/75
+##### Problem solved 13/75
 
 -   [ ] [Array](#array) (11)
 -   [ ] [Stack](#stack) (7)
@@ -21,8 +21,8 @@
 
 ### Array
 
--   [x] [Two Sum](https://leetcode.com/problems/two-sum) - [Solution](Array/1.%20Two%20Sum/)
--   [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+-   [x] [Two Sum](https://leetcode.com/problems/two-sum) - [Solution](/Array/1.%20Two%20Sum/)
+-   [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) - [Solution](Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)
 -   [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
 -   [ ] [Majority Element](https://leetcode.com/problems/majority-element)
 -   [ ] [Insert Interval](https://leetcode.com/problems/insert-interval)
