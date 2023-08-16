@@ -1,7 +1,7 @@
 # Grind 75
 > This repository is a software engineer interview prepration, which provides solutions for 75 leetcode questions in Java. The original post can be found on [here](https://www.techinterviewhandbook.org/grind75?grouping=topics&order=difficulty&hours=8). Questions can be categorized into 15 cagtegories, including Array, Stack, Linked List, String, Binary Tree, Binary Search, Graph, Dynamic Programming, Binary Search Tree, Hash Table, Binary, Heap, Trie, Recursion, and Matrix.
 
-##### Problem solved 13/75
+##### Problem solved 14/75
 
 -   [ ] [Array](#array) (11)
 -   [ ] [Stack](#stack) (7)
@@ -72,7 +72,7 @@
 
 ### Binary Tree
 
--   [ ] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
+-   [x] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) - [Solution](/Binary%20Tree/226.%20Invert%20Binary%20Tree)
 -   [ ] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)
 -   [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
 -   [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
