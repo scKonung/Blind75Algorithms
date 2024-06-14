@@ -1,5 +1,5 @@
 # Grind 75
-> This repository is a software engineer interview prepration, which provides solutions for 75 leetcode questions in Java. The original post can be found on [here](https://www.techinterviewhandbook.org/grind75?grouping=topics&order=difficulty&hours=8). Questions can be categorized into 15 cagtegories, including Array, Stack, Linked List, String, Binary Tree, Binary Search, Graph, Dynamic Programming, Binary Search Tree, Hash Table, Binary, Heap, Trie, Recursion, and Matrix.
+This repository is a software engineer interview prep and algorithms training that provides solutions to 75 leetcode questions in Java, Python and C#. The original article can be found [here] (https://www.techinterviewhandbook.org/grind75?grouping=topics&order=difficulty&hours=8). The questions can be divided into 15 categories, including: Array, Stack, Linked List, String, Binary Tree, Binary Search, Graph, Dynamic Programming, Binary Search Tree, Hash Table, Binary, Heap, Trie, Recursion, and Matrix.
 
 ##### Problem solved 14/75
 
@@ -73,7 +73,7 @@
 ### Binary Tree
 
 -   [x] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) - [Solution](/Binary%20Tree/226.%20Invert%20Binary%20Tree)
--   [ ] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)
+-   [x] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) - [Solution](/Binary%20Tree/110.%Balanced%20Binary%20Tree)
 -   [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
 -   [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
 -   [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)
@@ -121,7 +121,7 @@
 
 ### Binary Search Tree
 
--   [ ] [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
+-   [x] [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) - [Solution](/Binary%20Search%20Tree/235.%20LowestCommon%20Ancestor%20of%20a%20Binary%20Search%20Tree)
 -   [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
 -   [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)
 
